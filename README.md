@@ -2,10 +2,10 @@
 CSE343 Machine Learning Project-Predicting Economic Recession Cycles
 
 Current Work
-Burger - SVMs
-Muthu - Gradient Boosting, Logistic Regression
-Fish - Random Forest, Polynomial Regression
-Agshad - EDA
+Burger - SVMs <br />
+Muthu - Gradient Boosting, Logistic Regression <br />
+Fish - Random Forest, Polynomial Regression <br />
+Agshad - EDA <br />
 
 
 [Model Selection](https://docs.google.com/document/d/1nVPZF-dDvpgHDUqqfB6gaJ5IhQfPkAUS5zPR5Rc0_cw/edit) 
