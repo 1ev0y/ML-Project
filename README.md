@@ -5,7 +5,8 @@ Current Work <br />
 Burger - SVMs <br />
 Muthu - Gradient Boosting, Logistic Regression <br />
 Fish - Random Forest, Polynomial Regression <br />
-Agshad - EDA <br />
+Agshad - EDA <br />\
+Khet - Discovering the Yearly and monthly dataset
 
 
 [Model Selection](https://docs.google.com/document/d/1nVPZF-dDvpgHDUqqfB6gaJ5IhQfPkAUS5zPR5Rc0_cw/edit) 
