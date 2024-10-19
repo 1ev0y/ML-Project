@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error
 
 # Loading the data.
-def load_data(dataset = 'Linear', folder_path = './Update/Merged/'):
+def load_data(dataset = 'Linear', folder_path = '../Datasets/Final Datasets/'):
     data_path = folder_path + str(dataset) + '.csv'
 
     if os.path.isfile(data_path):
