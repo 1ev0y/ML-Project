@@ -4,7 +4,7 @@ CSE343 Machine Learning Project-Predicting Economic Recession Cycles
 Current Work <br />
 Burger - SVMs <br />
 Muthu - Gradient Boosting, Logistic Regression <br />
-Fish has completed all his work
+Fish has completed all his work <br />
 Agshad - EDA <br />
 Khet - Discovering the Yearly and monthly dataset
 
