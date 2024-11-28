@@ -8,7 +8,7 @@ Contributions (Add if you want/In case asked for later)<br />
 • Fish: Literature Review, Model Selection, Implementation and Optimization of Random Forest and Polynomial Regression. <br />
 • Jackedshat: Exploratory Data Analysis (EDA), Data Pre-processing, Model Selection. <br />
 • Burger: Metric Analysis, Data Pre- processing, Support Vector Machines (SVM) Implementation and Optimization. <br />
-• Muthu: Data Collection, Data Preprocessing, Gradient Boosting (GB) and K-Nearest Neighbors (KNN) Implementation and Optimization. <br />
+• Cuthu: Data Collection, Data Preprocessing, Gradient Boosting (GB) and K-Nearest Neighbors (KNN) Implementation and Optimization. <br />
 • Khet: Exploratory Data Analysis(EDA), Quarterly and Yearly Data Model Optimization (for all 5 models). 
 
 
